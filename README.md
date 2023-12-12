@@ -20,6 +20,4 @@ This BOF contains the following commands:
 |`enumfiles webservers` | Run only webserver checks. |
 |`enumfiles powershell-hist` | Run only PowerShell history checks. |
 |`enumfiles python` | Run only Python checks. |
-|`enumfiles remoting` | Run only remoting checks. |
-|`enumfiles remoting` | Run only remoting checks. |
 |`enumfiles unattended` | Run only unattended file checks. |
